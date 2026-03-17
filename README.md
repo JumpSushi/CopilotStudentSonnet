@@ -26,6 +26,7 @@ NODE_OPTIONS="--max-old-space-size=8192" node .esbuild.ts --sourcemaps
 # install (force-replaces any existing marketplace version)
 code --install-extension copilot-chat-0.39.1.vsix --force
 ```
+(you can also just install it with that line since it's already built)
 
 Then run `Developer: Reload Window` from the command palette.
 
