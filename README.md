@@ -1,6 +1,10 @@
 # copilot-chat student plan workaround
 
-MicroSlop probably changed something in the backend yesterday night - It dosen't work anymore
+MicroSlop probably changed something in the backend yesterday night - It dosen't work anymore for me
+You could possibly still try it, the models returned for me now are:
+Available models from API: gpt-5.3-codex, claude-haiku-4.5, gpt-4.1, gpt-4o
+
+---
 
 GitHub [removed Claude Sonnet and Opus from the Student Plan on March 12, 2026](https://github.com/orgs/community/discussions/189268) to keep Copilot "free and accessible." This repo builds the extension from source with a setting that lets you pick your preferred Claude model when it's available in your token.
 
