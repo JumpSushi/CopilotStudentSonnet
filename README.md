@@ -1,5 +1,7 @@
 # copilot-chat student plan workaround
 
+MicroSlop probably changed something in the backend yesterday night - It dosen't work anymore
+
 GitHub [removed Claude Sonnet and Opus from the Student Plan on March 12, 2026](https://github.com/orgs/community/discussions/189268) to keep Copilot "free and accessible." This repo builds the extension from source with a setting that lets you pick your preferred Claude model when it's available in your token.
 
 ---
